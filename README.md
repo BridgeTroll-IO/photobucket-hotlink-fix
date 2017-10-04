@@ -10,3 +10,6 @@ https://chrome.google.com/webstore/detail/photobucket-hotlink-fix/kegnjbncdcliih
 
 ### Mozilla Firefox/Android
 https://addons.mozilla.org/en-US/firefox/addon/photobucket-fix
+
+### Opera
+https://addons.opera.com/es/extensions/details/photobucket-hotlink-fix/
